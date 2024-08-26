@@ -1,4 +1,4 @@
-# 1) [Movie Rating Analysis]("Movie_Rating_Analysis/Movie_Rating_Analysis.ipynb")
+# --> [Movie Rating Analysis](Movie_Rating_Analysis/Movie_Rating_Analysis.ipynb)
 
 This repository contains a Python-based movie rating analysis project. The project utilizes datasets containing movie titles, genres, and user ratings to perform various analyses, including the distribution of ratings and identifying top-rated movies.
 
