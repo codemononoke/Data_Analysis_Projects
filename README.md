@@ -28,3 +28,14 @@ This project demonstrates how to process and visualize audio files using Python 
 - Trim silence from audio files
 - Generate spectrograms and mel spectrograms
 - Zoom into specific sections of audio data
+
+# --> [Supply Chain Data Analysis and Visualization](Supply_Chain_Analysis/Supply_Chain_Analysis.ipynb)
+
+This project analyzes a supply chain dataset using Python libraries like Pandas and Plotly to visualize key metrics such as sales, revenue, manufacturing costs, and defect rates. The goal is to provide actionable insights that can help improve operational efficiency and decision-making in supply chain management.
+
+## Key Features
+- **Price vs. Revenue Analysis**: Scatter plot showing the relationship between price and revenue by product type.
+- **Sales Distribution**: Pie chart representing the sales distribution by product type.
+- **Shipping Costs & Revenue**: Bar charts to analyze revenue and shipping costs by different carriers.
+- **Lead Times & Manufacturing Costs**: Analysis of average lead time and manufacturing costs by product type.
+- **Defect Rates**: Bar chart showcasing average defect rates by product and transportation mode.
